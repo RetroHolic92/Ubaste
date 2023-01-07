@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.4",
+	"FriendlyName": "MapEditor",
+	"Description": "Runtime Multiplayer Map Editor",
+	"Category": "Map Editor",
+	"CreatedBy": "Sneaky Kitty Game Dev",
+	"CreatedByURL": "https://www.youtube.com/channel/UCYcDJPGvIUFxBTmXOZWFswQ",
+	"DocsURL": "https://docs.google.com/document/d/1tdirCj92HdBOe_Rwt-KJ4zQgfvJvEmFGM4S_TQe_0Dk/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/765511a404874e15b80da06f34a44dc0",
+	"SupportURL": "https://discord.gg/W5g6pZXfjh",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MapEditor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}

@@ -21,7 +21,8 @@
 			"PlatformAllowList": [
 				"Win64",
 				"Linux",
-				"Mac"
+				"Mac",
+				"Switch"
 			],
 			"PlatformDenyList": [
 				"IOS",
